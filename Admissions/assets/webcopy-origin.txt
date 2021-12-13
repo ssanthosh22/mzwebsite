@@ -1,0 +1,160 @@
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/register.html
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\register.html
+Content Type: text/html
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/css/bootstrap.min.css
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/css/line-awesome.min.css
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/css/main.css
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\css\main.css
+Content Type: text/css
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/css/theme-1.css
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\css\theme-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap
+File Name: D:\xampp\htdocs\uigaint.com\css2.css
+Content Type: text/css
+
+Uri: https://uigaint.com/demo/html/anfra_2/images/favicon.png
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\images\favicon.png
+Content Type: image/png
+
+Uri: https://uigaint.com/demo/html/anfra_2/images/apple-touch-icon.png
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://uigaint.com/demo/html/anfra_2/images/icon-72x72.png
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\images\icon-72x72.png
+Content Type: image/png
+
+Uri: https://uigaint.com/demo/html/anfra_2/images/icon-114x114.png
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\images\icon-114x114.png
+Content Type: image/png
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/login.html
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\login.html
+Content Type: text/html
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/images/logo-dark.png
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\images\logo-dark.png
+Content Type: image/png
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/images/account-icon/google.png
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\images\account-icon\google.png
+Content Type: image/png
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/images/account-icon/facebook.png
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\images\account-icon\facebook.png
+Content Type: image/png
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/js/jquery.min.js
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/js/popper.min.js
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/js/bootstrap.min.js
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/js/custom.js
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\js\custom.js
+Content Type: application/javascript
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-brands-400.eot
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-brands-400.eot?
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-brands-400.woff2
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-brands-400.woff2
+Content Type: 
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-brands-400.woff
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-brands-400.ttf
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-brands-400.svg
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-regular-400.eot
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-regular-400.eot?
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-regular-400.woff2
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-regular-400.woff2
+Content Type: 
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-regular-400.woff
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-regular-400.ttf
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-regular-400.svg
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-solid-900.eot
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-solid-900.eot?
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-solid-900.woff2
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-solid-900.woff2
+Content Type: 
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-solid-900.woff
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-solid-900.ttf
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/assets/fonts/la-solid-900.svg
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\assets\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/images/check-white.svg
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\images\check-white.svg
+Content Type: image/svg+xml
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/images/check-green.svg
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\images\check-green.svg
+Content Type: image/svg+xml
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/images/check-grey.svg
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\images\check-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://uigaint.com/demo/html/anfra_2/register-2/forget.html
+File Name: D:\xampp\htdocs\uigaint.com\demo\html\anfra_2\register-2\forget.html
+Content Type: text/html
+

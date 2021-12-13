@@ -1,0 +1,67 @@
+/*.pager {
+	float:left;
+	width:300px;
+	text-align:center;
+}
+.pager a {
+	margin:0 5px;
+	text-decoration:none;
+}
+.pager a.selected {
+	text-decoration:underline;
+}
+.timer {
+	background-color:#999;
+	height:6px;
+	width:0px;
+}*/
+.list_carousel { position:relative; }
+.list_carousel .next,.list_carousel .prev { *height:0; }
+.blue-bg .carousel_nav { width:19px; position:absolute; bottom:30px;margin:0 auto;left:45%}
+.blue-bg .prev,.blue-bg .next { width:9px; height:17px; margin:0px 15px 0; display:block; background:url(nav-btn.png) no-repeat 0 0; position:absolute; top:0; z-index:10; cursor:pointer; text-indent:-9999px; opacity:1; -webkit-transition:all .3s ease; -moz-transition:all .3s ease; -o-transition:all .3s ease; overflow:hidden; }
+.blue-bg .next { background-position:100% 0%; right:-20.5px; }
+.blue-bg .prev { background-position:0 0%; left:-30px; }
+.blue-bg .next:hover { background-position:100% 100%; right:-20.5px; }
+.blue-bg .prev:hover { background-position: 0 100%; }
+.section1 .blue-bg .next { background-position:100% 100%; right:-20.5px; }
+.section1 .blue-bg .prev { background-position: 0 100%; }
+
+/* 6.3. Products */
+.blue-bg ul { margin:0; padding:0; list-style:none; display:block; }
+.blue-bg ul li { text-align:left; width:270px; display:block; margin:0px 8px 0px 0px; float:left; min-width:220px; }
+.blue-bg.responsive { width:auto; margin-left:0; }
+
+.jcarousel-item {opacity:1; text-align:left; overflow:hidden;min-height:300px}
+.inner .jcarousel-item{min-height:200px}
+.jcarousel-item .inner-div {}
+.jcarousel-item .inner-div img { }
+.jcarousel-item .proname { font:normal 12px/18px Arial, Helvetica, sans-serif; position:relative; margin:auto 0px; width:90%;  padding:5px 10px; color:#333; }
+.jcarousel-item .proname p{margin-bottom:5px;}
+.jcarousel-item .proname p.graytext{color:#999999; font-style:italic; font-size:11px;}
+.jcarousel-item .proname p.price{color:#7f9919;}
+ 
+.industry{text-align:left; margin-bottom:10px;}
+.industry .inner-div {}
+ 
+@media only screen and (min-width: 768px) and (max-width: 959px)
+{
+ 
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+.blue-bg ul li{min-width:180px}
+.blue-bg .carousel_nav{left:100%}
+.inner .blue-bg .carousel_nav{left:50%}
+}
+
+@media(max-width: 360px)
+{
+.latest-face ul li{width:100%;}
+.jcarousel-item { width:280px; text-align:left; }
+
+}
+@media only screen and (min-width: 768px) and (max-width: 1279px){
+.blue-bg ul li{min-width:10%}
+.section1 .blue-bg img{max-width:95%}
+}

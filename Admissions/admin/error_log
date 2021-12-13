@@ -1,0 +1,6 @@
+[02-Jul-2021 09:21:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mount_zion'@'localhost' (using password: YES) in /home/mzcetin1/public_html/Admissions/admin/login_process.php on line 10
+[02-Jul-2021 09:21:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/mzcetin1/public_html/Admissions/admin/login_process.php on line 16
+[02-Jul-2021 09:21:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/mzcetin1/public_html/Admissions/admin/login_process.php on line 17
+[02-Jul-2021 09:22:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mount_zion'@'localhost' (using password: YES) in /home/mzcetin1/public_html/Admissions/admin/login_process.php on line 10
+[02-Jul-2021 09:22:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/mzcetin1/public_html/Admissions/admin/login_process.php on line 16
+[02-Jul-2021 09:22:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/mzcetin1/public_html/Admissions/admin/login_process.php on line 17

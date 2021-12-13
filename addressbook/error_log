@@ -1,0 +1,7 @@
+[08-Jul-2021 15:35:04 UTC] PHP Notice:  Undefined variable: db in /home/mzcetin1/public_html/addressbook/include/login.inc.php on line 412
+[08-Jul-2021 15:35:04 UTC] PHP Notice:  Undefined variable: db in /home/mzcetin1/public_html/addressbook/include/login.inc.php on line 414
+[08-Jul-2021 15:35:38 UTC] PHP Notice:  Undefined variable: to_group in /home/mzcetin1/public_html/addressbook/group.php on line 75
+[08-Jul-2021 15:37:44 UTC] PHP Notice:  Undefined variable: db in /home/mzcetin1/public_html/addressbook/include/login.inc.php on line 412
+[08-Jul-2021 15:37:44 UTC] PHP Notice:  Undefined variable: db in /home/mzcetin1/public_html/addressbook/include/login.inc.php on line 414
+[08-Jul-2021 15:37:54 UTC] PHP Notice:  Undefined variable: db in /home/mzcetin1/public_html/addressbook/include/login.inc.php on line 412
+[08-Jul-2021 15:37:54 UTC] PHP Notice:  Undefined variable: db in /home/mzcetin1/public_html/addressbook/include/login.inc.php on line 414

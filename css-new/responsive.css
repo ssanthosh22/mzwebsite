@@ -1,0 +1,128 @@
+/* 320px Mobile (Portrait) */
+@media only screen and (max-width: 767px)
+{
+.logo{position:static}
+.flexy-menu{margin: 15px 0 0 0 !important;}
+.border-head1,.border-head,.black-bg{background:none}
+.head-title,.head-title1{position:static;background:#333;margin:20px 0 0}
+.blue-bg{position:static}
+.no-dis{display:none}
+.border-head .fr{float:none}
+ul.tabs-pop{float:none}
+ul.tabs-pop li.active span.text{padding:10px 3px}
+#footer-main{text-align:center}
+.flexy-menu li{padding:0}
+ul.tabs-pop li.active span.arrow-bottom{display:none}
+.inner #header-main,.inner .logo,.apply{text-align:center;float:none}
+footer .fr{float:none;text-align:center}
+.inner .content-section{padding-left:0px}
+.inner .apply{float:none}
+.inner .mgmenu, #mgmenu1{margin-top:15px}
+.inner #header-main .apply{display:none}
+.inner #body-main .apply-wrap{text-align:center;margin:0}
+#back-top{padding-left:0px}
+.social li{margin:20px 5px 0px 0px;}
+.title-recruit::before, .title-recruit::after{ display:none !important;}
+
+}
+
+/* 480px Mobile (Landscape) */
+@media only screen and (min-width: 480px) and (max-width: 767px)
+{
+ul.tabs-pop{float:none}
+ul.tabs-pop li.active span.text{padding:10px 3px 10px;}
+.pop-pages img{width:95%}
+ul.tabs-pop li a{width:420px;margin:0;padding:0}
+.head-title{padding-left:0px}
+.schl{padding:2px 8px}
+.pop-pages .title{width:60px}
+.social li{margin: 20px 5px 40px 0px;}
+ul.tabs-pop li a{width:160px;}
+ul.tabs-pop li a span.text{font-size:12px;padding:0 1px}
+ul.tabs-pop li.active span.text{padding:13px 1px}
+.tab_content nav{width:150px;margin:0px}
+.right-menu{float:left}
+.inner #body-main .apply-wrap{margin:0 0 20px}
+.blue-bg ul li{min-width:100px}
+.tabs-pop .arrow{display:none}
+#back-top{padding-left:0px}
+.media li{margin:10px 0}
+.media-list li{margin:20px 12px 40px; float:none;}
+.media-list li p{ text-align:center;}
+.media-list li img{width:195px;}
+.blue-bg{width:460px;padding:20px 10px;}
+.blue-bg img{width:240px;margin:0 90px}
+.inner .section1{margin:10px 0}
+.inner .blue-bg{width:160px;padding:20px 10px;}
+.inner .blue-bg img{width:150px;margin:0 0px}
+}
+
+@media only screen and (width: 480px)
+{
+.banner-desc{display:none}
+}
+
+/* 320px Mobile (Portrait) */
+@media only screen and (max-width: 479px)
+{
+.banner-desc{display:none}
+.pop-pages img{width:95%}
+ul.tabs-pop li a{width:300px;margin:0;padding:0}
+.head-title{padding-left:15px}
+#back-top{text-align:center}
+.apply img{width:100%}
+.media li{margin:10px 0 0}
+.media-list li{display:block;float:none;margin:10px 0}
+.media-list li img{width:250px;height:158px}
+.media-list li p{margin-left:20px}
+.inner .section1{margin:10px 0}
+}
+
+/* 240px Mobile (Portrait) */
+@media only screen and (max-width: 319px)
+{
+
+} 
+/* 768px Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 1023px)
+{
+.head-title{font-size:14px}
+#header-main .right-menu{width:400px}
+.logo{left:0}
+.pop-pages img{width:95%}
+ul.tabs-pop li a {width:150px;margin:0 5px }
+.tab_content nav{float:left;width:172px;margin-left:10px}
+.flexy-menu li{padding:0}
+.social li{margin:20px -10px 0px 15px;}
+.inner #body-main .apply{display:none}
+.container-12 .grid-2{width:208px}
+#back-top{padding-left:0px}
+.media-list li{margin:20px 10px 20px; float:none;}
+.media-list li p{ text-align:center;}
+.media-list li img{width:220px; height:110px;}
+.blue-bg{width:160px;padding:20px 10px;}
+.blue-bg img{width:140px}
+.inner .section1{margin:10px 0}
+.section1 .blue-bg{width:170px;padding:15px 8px;}
+}
+
+/* 960px Desktop */
+@media only screen and (min-width:1024px) and (max-width: 1279px)
+{
+.logo{left:-35px}
+ul.tabs-pop li a {width:200px;margin:0 5px }
+.tab_content nav{float:left;width:220px;margin-left:10px}
+.flexy-menu li{font-size:14px;padding:0 4px}
+.pop-pages img{width:95%}
+.inner #body-main .apply{display:none}
+#back-top{padding-left:0px}
+.media-list li{margin:20px 10px 20px; float:none;}
+.media-list li p{ text-align:center;}
+.media-list li img{width:265px;height:130px;}
+.blue-bg{width:200px;padding:20px 15px;}
+.blue-bg img{width:180px}
+.inner .section1{margin:10px 0}
+}
+@media only screen and (min-width:1024px){
+.inner #body-main .apply{display:none}
+}

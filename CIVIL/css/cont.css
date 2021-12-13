@@ -1,0 +1,90 @@
+/* Style the tab */
+div.tab {
+    float: left;
+    border: 1px solid #888b8e;
+    background-color: #0066CC;
+    width: 30%;
+    height: 387px;
+	  border: 1px solid black;
+
+	}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    display: block;
+    background-color: inherit;
+    color: #fff;
+    padding: 9px 2px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+	
+   border: 1px solid black;
+border-style: ridge;
+	
+}
+
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #FFCB27;
+}
+
+/* Create an active/current "tab button" class */
+div.tab button.active {
+    background-color: #FFCB27;
+	color: #000;
+}
+
+/* Style the tab content */
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 70%;
+    border-left: none;
+    height: 387px;
+	display: none;
+	overflow:auto;
+	border: 1px solid black;	
+}
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+@media screen and (max-width: 480px) {
+	table {
+		overflow-x: auto;
+		display: block;
+	}
+	th,td,tr {
+		overflow-x: auto;
+		display: block;
+	}
+}
+
+
+
+.tab{
+    scrollbar-base-color: orange; 
+scrollbar-arrow-color: green;
+scrollbar-DarkShadow-Color: blue; 
+}
+

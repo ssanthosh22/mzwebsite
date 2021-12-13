@@ -1,0 +1,2 @@
+[01-May-2021 12:11:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mzcetin1_alumini'@'localhost' (using password: YES) in /home/mzcetin1/public_html/alumnidemo/connection.php on line 12
+[01-May-2021 12:11:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mzcetin1/public_html/alumnidemo/connection.php on line 12

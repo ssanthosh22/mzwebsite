@@ -1,0 +1,9 @@
+#owl-wrapper {
+    width: 300%;
+    overflow: hidden;
+    -webkit-transition: margin-left 500ms ease-in-out;
+        -moz-transition: margin-left 500ms ease-in-out;
+        -o-transition: margin-left 500ms ease-in-out;
+        -ms-transition: margin-left 500ms ease-in-out;
+        transition: margin-left 500ms ease-in-out;
+}

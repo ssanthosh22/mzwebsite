@@ -1,0 +1,20 @@
+[03-Nov-2020 16:05:42 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(C:\Inetpub\vhosts\mzcet.in\logs\php_errors\mzcet.in\php_error.log) is not within the allowed path(s): (C:/Inetpub/vhosts/mzcet.in\;C:\Windows\Temp\) in Unknown on line 0
+[03-Nov-2020 16:05:42 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/mzcetin1/public_html/Applyonline/index.php) is not within the allowed path(s): (C:/Inetpub/vhosts/mzcet.in\;C:\Windows\Temp\) in Unknown on line 0
+[03-Nov-2020 16:05:42 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[12-Dec-2020 08:48:43 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[21-Dec-2020 13:58:24 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[29-Apr-2021 15:22:00 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[13-May-2021 04:33:41 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[09-Jun-2021 07:24:46 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[09-Jun-2021 07:25:09 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[09-Jun-2021 07:25:31 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[12-Jun-2021 11:53:18 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[12-Jun-2021 11:53:43 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[12-Jun-2021 13:02:42 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[14-Jun-2021 03:32:19 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[15-Jun-2021 05:37:06 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[15-Jun-2021 05:39:17 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[15-Jun-2021 05:39:21 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[17-Jun-2021 03:25:48 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[23-Nov-2021 15:04:36 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
+[23-Nov-2021 15:05:22 UTC] PHP Notice:  Undefined variable: captcha in /home/mzcetin1/public_html/Applyonline/index.php on line 8
