@@ -1,4 +1,4 @@
-﻿<!--#include file="header.aspx"-->
+<?php include 'header.php';?>
 <br/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
@@ -31,8 +31,7 @@ Worldwide research has shown that ICT can lead to an improved student learning a
 <br/>
 
 
-  
-<!--#include file="footer.aspx"-->
+<?php include 'footer.php';?>
 
 
 
