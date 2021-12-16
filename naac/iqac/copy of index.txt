@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-US">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Mount Zion College of Engineering and Technology | NAAC</title>
+	  <!-- FAVICON -->
+	  <link rel="shortcut icon" type="image/png" href="favicon.ico">
+	  <!-- FAVICON END-->
+      <link rel="stylesheet" href="css/components.css">
+      <link rel="stylesheet" href="css/responsee.css">
+      <link rel="stylesheet" href="css/icons.css">
+      <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
+      <link rel="stylesheet" href="owl-carousel/owl.theme.css">
+      <!-- CUSTOM STYLE -->
+      <link rel="stylesheet" href="css/template-style.css">
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+      <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+      <script type="text/javascript" src="js/jquery-ui.min.js"></script>    
+      <script type="text/javascript" src="js/template-scripts.js"></script> 
+   </head>
+   <body class="size-1140">
+      <!-- TOP NAV WITH LOGO -->
+	   <header>
+         <div id="topbar">
+            <div class="line">
+               <div class="s-12 m-6 l-6">
+                   <p><strong>MOUNT ZION COLLEGE OF ENGINEERING AND TECHNOLOGY</strong></p>
+               </div>
+               <div class="s-12 m-6 l-6">
+                  <div class="social right">
+                     <a href="../index.aspx"><i class="icon-home"></i></a> <a href="https://www.facebook.com/MountZionCET"><i class="icon-facebook_circle"></i></a> 
+                  </div>
+               </div>
+            </div>  
+         </div> 
+         <nav>
+            <div class="line">
+               <div class="s-4 l-4">
+                
+					<p class="logo"><strong>NAAC</strong></p>
+               </div>
+               <div class="top-nav s-6 l-12">
+                  <p class="nav-text"></p>
+                  <ul class="right">
+
+						<li><a href="#vision">IQAC</a></li>
+						<li><a href="#profile">AQAR</a></li>
+						<li><a href="#contact">NAAC DVV</a></li>
+						<li><a href="#contact">NAAC SSR </a></li>
+<!--<li><a href="#features">Trustees</a></li>
+						<li><a href="#director">Director</a></li>
+						<li><a href="#principal">Principal</a></li> -->
+                  </ul>
+               </div>
+            </div>
+         </nav>
+      </header>  
+      <section>
+	  
+	  
+	  
+     
+         
+<!--Vision -->
+         <div id="vision">
+            <div class="line">
+              
+               <div class="margin">
+				<!--<div class="row">
+					 <div class="column"></div>
+					<div class="column"></div>
+			  <p align="left><br><br><br><strong>
+			  <style>
+			  .column {
+		float: left;
+			}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+			  </style> -->
+			  <br><br><br><br>
+				<a href="vision"> FUNCTIONS OF IQAC </a> <br><br>			     
+                 <a href="vision"> IQAC MEMBERS</a> <br> <br>
+				 <a href="vision"> IQAC MINUTES</a>  <br><br>
+				 </strong>
+				 </p>
+				 <br> <br> <br> <br><br><br><br>
+				 <br>
+				 <br>
+				 <br>
+                     
+					 <!--<h3 align="left"><b>CRITERIA</b></h3>
+                     
+                        <p align="justify">Mount Zion College of Engineering and Technology will be the preferred choice of all those who aspire for excellence.</p>
+
+                     <br /><br/>
+ <h3 align="justify"><b>Mission</b></h3>
+
+
+<ul type="disc">
+<li>Provide education of the highest quality.</li>
+<li>Empower the students to meet the challenges of a collaborative and competitive globalized environment.</li>
+<li>Foster attitude for a sustainable environment.</li>
+<li>Develop the mental, physical, emotional and spiritual spheres for holistic excellence.</li>
+<li>Synergize excellence among aspirants through wholesome ambience.</li>
+<li>Train to take on challenges and become highly competent.</li>
+<li>Initiate a desire to offer selfless service to humanity.</li>
+</ul>
+                                                              
+</div>
+                                  
+               </div>
+            </div>
+-->
+
+
+
+
+
+<!-- Profile -->
+     <!--    <div id="profile">
+            <div class="line">
+              
+               <div class="margin">
+<p align="justify"><strong>
+				<h4 align = "center"><br>NAAC DVV</h4></strong></p><br>
+
+                     
+                       <!-- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mount Zion College of Engineering and Technology was inaugurated in the year 2001. It is run by Mount Zion Christian Educational Trust. This trust was formed in 1988 with the sole aim of providing education in the educationally backward district of Pudukkottai. The college since its inception has grown in leaps and bounds and is currently one of the best in the region. It strives to make all those who pass through its portals into innovative, hardworking engineers who will be of use to their places of work and to the society at large. Though young, the college has great plans for the future and the management is determined to transform Mount Zion into one of the best engineering institutions in the world.</p>
+                                     
+                     <br> -->
+					 <BR>
+					 <br>
+					 <br> 
+					 
+                        <!--  <h6 align="justify"><strong>Mount Zion has currently secured the highest number of job placements among self-financing engineering colleges in the region !!!   <br>             
+We expect more placements to follow. Check this space for updates ! Students are currently placed at:</strong></h6>  
+<br>
+
+<ul type="disc">
+<li>Wipro Technologies</li>
+<li>Cognizant Technology Solutions (CTS)</li>
+<li>Sutherland Global Solutions</li>
+<li>IBM</li>
+<li>Repcol India Pvt. Ltd</li>
+<li>Sure Soft Technologies</li>
+<li>Verizon Data Services</li>
+<li>i-Flex Solutions</li>
+<li>Infosys</li>
+<li>Larsen & Tourbo Infotech</li>
+<li>Satyam Computers Ltd.</li>
+<li>All Sec Technologies</li>
+<li>Cybernet Slash Support</li>
+<li>HCL Technologies</li>
+<li>Syscon Solutions</li>
+<li>Educomp & Pearson Co</li>
+<li>Blue Bridge Resources Private Ltd.</li>
+<li>Indian Army</li>
+</ul>
+
+<br/>
+
+</div>
+                                  
+               </div>
+            </div>
+         </div> -->
+         <!-- Chairman -->
+      <!--   <div id="contact">
+            <div class="line">
+               <p align="justify"><strong>
+				<h4 align = "center"><br>IQAC</h4></strong></p><br>
+               <div class="margin" >
+                  <div class="s-12 m-6 l-3 margin-bottom"align="center">
+                    <img src="img/cm.png" alt="">
+                  </div> -->
+					
+                   <!--  <h3>Mr. Jayabarathan Chelliah, M.A. (U.S.A), B.Ed.</h3>
+                                            <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Jayabarathan Chelliah, the founder and Correspondent of the school, is the Managing Trustee of the Mount Zion Christian Education Trust. He holds a bachelor’s degree in science from Alagappa University, Karaikudi, Tamil Nadu, a bachelor's degree in education from Calicut University, Kerala. He graduated in June, 1978 with a master’s degree in Educational administration from the prestigious Loma Linda University, California, U.S.A.</p>
+
+                     <br />
+                      <p align="justify">He is also the founder and Chairman of Mount Zion College of Engineering and Technology at Pudukkottai, Tamil Nadu and Mount Zion College of Nursing, Pudukkottai, Tamil Nadu.
+                        He along with his team of trustees who are dedicated, qualified educationists, has been governing these three institutions with foresight and meticulous planning. He has over 40 years of experience in managing various educational institutions.</p>                  
+</div>
+ </div>
+</div>     -->                 
+             
+
+               <!-- FEATURES -->
+			   
+			   
+			<!--   <div id="features">
+            <div class="line">
+<p align="justify"><strong> -->
+			<!--	<h4 align = "center"><br>TRUSTEES</h4></strong> <br>
+               <div class="margin" align="center">
+                  <div class="s-12 m-6 l-3 margin-bottom" >
+                    <img src="img/cm.png" alt="" >
+                     <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Jayabarathan Chelliah, M.A. (U.S.A), B.Ed.</font></strong></h5>
+                     <p align="justify"><strong>Mr. Jayabarathan Chelliah,</strong> the founder and Correspondent of the school, is the Managing Trustee of the Mount Zion Christian Education Trust. He holds a bachelor’s degree in science from Alagappa University, Karaikudi, Tamil Nadu, a bachelor's degree in education from Calicut University, Kerala. He graduated in June, 1978 with a master’s degree in Educational administration from the prestigious Loma Linda University, California, U.S.A.</p>
+                  </div>
+				  <div class="s-12 m-6 l-3 margin-bottom">
+                     <img src="img/vp.png" alt="">
+                     <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mrs. Florence Jayabarathan, M.A., B.Ed.</strong></h5>
+                     <p align="justify"><strong>Mrs. Florence Jayabarathan,</strong> is the co-founder of the Mount Zion Matriculation Higher Secondary School along with her husband, Mr. Jayabarathan Chelliah. She is the Headmistress of the school and Vice-Chairperson of the trust since 1988. Under her able leadership, the very first batch of +2, which sat for the public exam in 1994, bagged the I place in the District.</p>
+                  </div>
+				   <div class="s-12 m-6 l-3 margin-bottom">
+                    <img src="img/trr.png" alt="">
+                     <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. Jonathan P. Jayabarathan, B.Sc., M.A., B.Ed., Ph.D.</strong></h5>
+                     <p align="justify"><strong> Mr. Jonathan Preeth Jayabarathan,</strong> is the Senior Principal of the Mount Zion Matriculation Higher Secondary School and the Mount Zion International School (CBSE). He holds a bachelor’s degree in science from American College, Madurai, a bachelor’s degree in education and a master’s degree in English from Bharathidasan University, Trichy. He also holds a doctorate degree from Tamil University, Thanjavur.</p>
+                  </div>
+                  <div class="s-12 m-6 l-3 margin-bottom">
+                     <img src="img/dr.png" alt="">
+                     <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prof. Jayson Keerthy Jayabarathan, B.E., M.Tech., Ph.D.</strong></h5>
+                     <p align="justify"><strong>Prof. Jayson Keerthy Jayabarathan,</strong> who holds a bachelor's degree in Computer Science & Engineering from Mookambigai College of Engineering and a master's degree in Computer Science & Engineering from SASTRA University, Thanjavur along with his team of dedicated, qualified faculty, has been governing Mount Zion College of Engineering & Technology. He has over 10 years of experience in managing the institution. Providing the best of technical information and latest technology for the students is his foremost aim.</p>
+                  </div>
+				  
+				  
+</div>
+ </div>
+</div>   -->    
+			 
+			   
+       
+<!-- Director -->
+       <!--  <div id="director">
+            <div class="line">
+              <p align="justify"><strong>
+				<h4 align = "center"><br>DIRECTOR </h4></strong></p><br>
+               <div class="margin" >
+                  <div class="s-12 m-6 l-3 margin-bottom" align="center">
+                    <img src="img/dr.png" alt="">
+                  </div>
+<div>
+<h3>PROF.JAYSON KEERTHY JAYABARATHAN,B.E.,M.Tech.,Ph.D.</h3>
+                                           <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prof. Jayson Keerthy Jayabarathan, who holds a bachelor's degree in Computer Science & Engineering from Mookambigai College of Engineering and a master's degree in Computer Science & Engineering from SASTRA University, Thanjavur along with his team of dedicated, qualified faculty, has been governing Mount Zion College of Engineering & Technology. He has over 10 years of experience in managing the institution. Providing the best of technical information and latest technology for the students is his foremost aim.</p>
+                     
+                     <br>
+                       <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He is concentrating on Quality of Service in ad-hoc communication for his PhD and published his research work in referred journals. He is very much interested in grooming athletes and sports men for the future generation.</p>                                    
+					
+					   </div>
+					   </div>
+                                  
+               </div>
+            </div> -->
+        
+
+<!--Principal -->
+        <!-- <div id="principal">
+            <div class="line">
+               <p align="justify"><strong>
+				<h4 align = "center"><br>PRINCIPAL</h4></strong></p><br>
+               <div class="margin" >
+                  <div class="s-12 m-6 l-3 margin-bottom"" align="center">
+                    <img src="img/pr.png" alt="">
+                  </div>
+                <h3>Dr.P.BALAMURUGAN M.E.,Ph.D.</h3>    
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. P. Balamurugan obtained both his bachelor's degree in Electrical and Electronics Engineering and master's degree in Power Electronics and Drives from Bharathidasan University. He has completed his Ph.D in Development of Optimal Hybrid Energy Systems for rural areas from National Institute of Technology, Calicut, Kerala.</p>
+<br><br>
+<h3>Principal’s Perspective</h3>
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At MZCET, our vision is to develop the logical and analytical competency of the students. MZCET is committed to provide high quality education to satisfy the needs of the industry. We personally look forward to incorporate my experience in teaching and research into the learning systems and direct the collective efforts of the faculty members to build comprehensive methodology for nurturing the minds of our students. We prepare the students to meet the challenges of engineering and technology sector. We are committed to provide direction and support to students in their professional development.</p>
+                     <br><br>
+                                                             
+</div>
+                                  
+               </div>
+            </div>
+         </div>  -->
+ <!-- FOOTER -->
+      <footer>
+         <div class="line">
+            <div class="s-12 l-6">
+               <p></p>
+               <p>ABOUT US</p>
+            </div>
+            <div class="s-12 l-6">
+               <a class="right">Designed and Maintained by Dept. of CSE - MZCET</a>
+            </div>
+			 <div class="social">
+                                         <a href="#"><i class="icon-home"></i></a> 
+                  </div>
+         </div>
+      </footer>      
+      <script type="text/javascript" src="js/responsee.js"></script>
+      <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
+      <script type="text/javascript">
+         jQuery(document).ready(function($) {
+            var theme_slider = $("#owl-demo");
+            $("#owl-demo").owlCarousel({
+                navigation: false,
+                slideSpeed: 300,
+                paginationSpeed: 400,
+                autoPlay: 6000,
+                addClassActive: true,
+             // transitionStyle: "fade",
+                singleItem: true
+            });
+            $("#owl-demo2").owlCarousel({
+                slideSpeed: 300,
+                autoPlay: true,
+                navigation: true,
+                navigationText: ["&#xf007","&#xf006"],
+                pagination: false,
+                singleItem: true
+            });
+        
+            // Custom Navigation Events
+            $(".next-arrow").click(function() {
+                theme_slider.trigger('owl.next');
+            })
+            $(".prev-arrow").click(function() {
+                theme_slider.trigger('owl.prev');
+            })     
+        }); 
+</div>
+      </script>
+   </body>
+</html>
