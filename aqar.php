@@ -1,8 +1,10 @@
-﻿<?php include 'header.php';?>
+<?php include 'header.php';?>
 	<br/>
 <div style="width: 100%;margin-top: 5%;">
       <h2 class="main-title ribbon"><span> NAAC AQAR </span></h2>
 		<div style="margin-left: 5%;text-align: center;">
+<a href="http://mzcet.in/naac/AQAR2021/aqar.html" target="_blank">2020-21</a><br>
+<a href="http://mzcet.in/AQAR 19-20.pdf" target="_blank">2019-20</a><br>
 <a href="http://mzcet.in/AQAR 17-18.pdf" target="_blank">2017-18</a><br>
 <a href="http://mzcet.in/AQAR 16_17.pdf" target="_blank">2016-17</a><br>
 <a href="http://mzcet.in/AQAR 15-16.pdf" target="_blank">2015-16</a><br>
